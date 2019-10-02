@@ -117,6 +117,7 @@ from yolo_tiny import YOLO, detect_video
 
 ```terminal:code execution
 $ python yolo_video_tiny.py --input AAA.mp4 --output AAA_tiny_out.mp4
+```
 
 # Result
 - Since only CPU is used in my environment, both ssd executed last time and yolo executed this time were slow.
