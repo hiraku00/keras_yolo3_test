@@ -123,3 +123,4 @@ $ python yolo_video_tiny.py --input AAA.mp4 --output AAA_tiny_out.mp4
 - The process using the tiny model is faster than the above, but the accuracy (bounding box part) is also worse.
 
 # In Japanese
+https://qiita.com/hiraku00/items/fe7d55b3ab556ff43786
